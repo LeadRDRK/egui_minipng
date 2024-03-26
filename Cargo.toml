@@ -1,0 +1,12 @@
+[package]
+name = "egui_minipng"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+keywords = ["egui", "image", "png"]
+description = "egui PNG image loader based on minipng"
+repository = "https://github.com/LeadRDRK/egui_minipng"
+
+[dependencies]
+egui = "0.26"
+minipng = "0.1"
