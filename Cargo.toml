@@ -8,5 +8,5 @@ description = "egui PNG image loader based on minipng"
 repository = "https://github.com/LeadRDRK/egui_minipng"
 
 [dependencies]
-egui = "0.27"
+egui = "0.28"
 minipng = "0.1"
